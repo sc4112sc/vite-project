@@ -1,6 +1,7 @@
 <template>
     <div class="bootstrap">
         <div class="container-fluid">
+        <!--scott-->
         <!--row-cols-lg-6 代表要設定lg尺寸以上固定6欄-->
         <!--g-5 代表要設定欄之間的間距-->
         <!--justify-content-center 代表要水平置中-->
